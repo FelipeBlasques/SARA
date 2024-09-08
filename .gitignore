@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Caches and logs
+*.log
+*.tmp
+
+# Environments
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# PyInstaller output
+/dist/
+/build/
+*.spec
+
+# System specific files
+.DS_Store
+Thumbs.db
+
+# VSCode config files
+.vscode/
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+
+# Local development database and configuration
+*.sqlite3
+config.py
+first time config.py
+
+# IDE settings
+.idea/
